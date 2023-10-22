@@ -535,6 +535,7 @@ body {
   position: relative;
 }
 .team-img  img {
+ 
   width: 100%;
   height: auto;
 }
@@ -929,10 +930,10 @@ margin: 0 8px;
     font-size: 18px;
     font-weight: 700;
   }
-  li:hover {
-background-color: #0079ff;
+  .footer-links li:hover {
+   background-color: #0079ff;
   }
-  li:hover a{
+  .footer-links li:hover a{
     color: #f4e869;
   }
   /* The End */
